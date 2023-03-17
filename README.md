@@ -51,6 +51,7 @@
 
 - 협업하기
 
+
 - 원격 저장소 만들기
 
   - origin 연결하기
@@ -88,3 +89,7 @@
 [내 깃허브](https://github.com/jyHyun1014)
 
 [내 깃허브](https://github.com/jyHyun1014, "클릭하면 내 깃허브로 이동합니다.")
+
+#  저장소 이미지 삽입하기
+
+![깃허브 이미지](./GitHub-Mark.png)
